@@ -1,0 +1,175 @@
+2021-07-06 10:43:39.246 [INFO] [main] [c.e.d.SpringDemoApplication:55] Starting SpringDemoApplication using Java 16.0.1 on brent with PID 8053 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 10:43:39.256 [INFO] [main] [c.e.d.SpringDemoApplication:659] No active profile set, falling back to default profiles: default 
+2021-07-06 10:43:41.227 [INFO] [main] [o.s.b.w.e.t.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 10:43:41.237 [INFO] [main] [o.a.c.c.StandardService:173] Starting service [Tomcat] 
+2021-07-06 10:43:41.239 [INFO] [main] [o.a.c.c.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 10:43:41.362 [INFO] [main] [o.a.c.c.C.[.[.[/]:173] Initializing Spring embedded WebApplicationContext 
+2021-07-06 10:43:41.363 [INFO] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext:290] Root WebApplicationContext: initialization completed in 2019 ms 
+2021-07-06 10:43:42.077 [INFO] [main] [o.s.b.w.e.t.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 10:43:42.093 [INFO] [main] [c.e.d.SpringDemoApplication:61] Started SpringDemoApplication in 3.431 seconds (JVM running for 4.948) 
+2021-07-06 10:43:42.101 [INFO] [main] [c.e.d.SpringDemoApplication:14] starting spring app 
+2021-07-06 10:43:55.899 [INFO] [http-nio-8080-exec-2] [o.a.c.c.C.[.[.[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 10:43:55.899 [INFO] [http-nio-8080-exec-2] [o.s.w.s.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet' 
+2021-07-06 10:43:55.901 [INFO] [http-nio-8080-exec-2] [o.s.w.s.DispatcherServlet:547] Completed initialization in 2 ms 
+2021-07-06 10:43:55.980 [INFO] [http-nio-8080-exec-2] [c.z.h.HikariDataSource:110] demo - Starting... 
+2021-07-06 10:43:56.880 [INFO] [http-nio-8080-exec-2] [c.z.h.HikariDataSource:123] demo - Start completed. 
+2021-07-06 10:43:56.939 [INFO] [http-nio-8080-exec-2] [c.e.d.SpringDemoApplication:42] Student added : Student(rollNo=10, name=Chamakh, age=30) 
+2021-07-06 11:33:16.348 [INFO] [RMI TCP Connection(59)-127.0.0.1] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] Application shutdown requested. 
+2021-07-06 11:33:16.371 [INFO] [RMI TCP Connection(59)-127.0.0.1] [c.z.h.HikariDataSource:350] demo - Shutdown initiated... 
+2021-07-06 11:33:16.391 [INFO] [RMI TCP Connection(59)-127.0.0.1] [c.z.h.HikariDataSource:352] demo - Shutdown completed. 
+2021-07-06 11:33:20.971 [INFO] [main] [com.example.demo.SpringDemoApplication:55] Starting SpringDemoApplication using Java 16.0.1 on brent with PID 10075 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 11:33:20.976 [INFO] [main] [com.example.demo.SpringDemoApplication:659] No active profile set, falling back to default profiles: default 
+2021-07-06 11:33:22.435 [INFO] [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 11:33:22.444 [INFO] [main] [org.apache.catalina.core.StandardService:173] Starting service [Tomcat] 
+2021-07-06 11:33:22.445 [INFO] [main] [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 11:33:22.496 [INFO] [main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext 
+2021-07-06 11:33:22.497 [INFO] [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:290] Root WebApplicationContext: initialization completed in 1437 ms 
+2021-07-06 11:33:22.943 [INFO] [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 11:33:22.955 [INFO] [main] [com.example.demo.SpringDemoApplication:61] Started SpringDemoApplication in 2.643 seconds (JVM running for 3.839) 
+2021-07-06 11:33:22.958 [INFO] [main] [com.example.demo.SpringDemoApplication:14] starting spring app 
+2021-07-06 11:33:53.564 [INFO] [RMI TCP Connection(9)-127.0.0.1] [org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] Application shutdown requested. 
+2021-07-06 11:37:02.077 [INFO] [main] [com.example.demo.SpringDemoApplication:55] Starting SpringDemoApplication using Java 16.0.1 on brent with PID 10401 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 11:37:02.083 [INFO] [main] [com.example.demo.SpringDemoApplication:659] No active profile set, falling back to default profiles: default 
+2021-07-06 11:37:04.183 [INFO] [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 11:37:04.207 [INFO] [main] [org.apache.catalina.core.StandardService:173] Starting service [Tomcat] 
+2021-07-06 11:37:04.209 [INFO] [main] [org.apache.catalina.core.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 11:37:04.348 [INFO] [main] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring embedded WebApplicationContext 
+2021-07-06 11:37:04.351 [INFO] [main] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:290] Root WebApplicationContext: initialization completed in 2193 ms 
+2021-07-06 11:37:05.756 [INFO] [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 11:37:05.771 [INFO] [main] [com.example.demo.SpringDemoApplication:61] Started SpringDemoApplication in 4.366 seconds (JVM running for 5.21) 
+2021-07-06 11:37:05.778 [INFO] [main] [com.example.demo.SpringDemoApplication:14] starting spring app 
+2021-07-06 11:37:44.199 [INFO] [http-nio-8080-exec-2] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173] Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 11:37:44.202 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet:525] Initializing Servlet 'dispatcherServlet' 
+2021-07-06 11:37:44.207 [INFO] [http-nio-8080-exec-2] [org.springframework.web.servlet.DispatcherServlet:547] Completed initialization in 3 ms 
+2021-07-06 11:37:44.267 [WARN] [http-nio-8080-exec-2] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver:207] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported] 
+2021-07-06 11:37:51.453 [WARN] [http-nio-8080-exec-3] [com.example.demo.SpringDemoApplication:68] testing   
+2021-07-06 11:39:20.820 [INFO] [RMI TCP Connection(10)-127.0.0.1] [org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] Application shutdown requested. 
+2021-07-06 11:39:24.901 [INFO] [main] [c.e.d.SpringDemoApplication:55] Starting SpringDemoApplication using Java 16.0.1 on brent with PID 10564 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 11:39:24.908 [INFO] [main] [c.e.d.SpringDemoApplication:659] No active profile set, falling back to default profiles: default 
+2021-07-06 11:39:27.219 [INFO] [main] [o.s.b.w.e.t.TomcatWebServer:108] Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 11:39:27.239 [INFO] [main] [o.a.c.c.StandardService:173] Starting service [Tomcat] 
+2021-07-06 11:39:27.240 [INFO] [main] [o.a.c.c.StandardEngine:173] Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 11:39:27.454 [INFO] [main] [o.a.c.c.C.[.[.[/]:173] Initializing Spring embedded WebApplicationContext 
+2021-07-06 11:39:27.455 [INFO] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext:290] Root WebApplicationContext: initialization completed in 2334 ms 
+2021-07-06 11:39:28.400 [INFO] [main] [o.s.b.w.e.t.TomcatWebServer:220] Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 11:39:28.427 [INFO] [main] [c.e.d.SpringDemoApplication:61] Started SpringDemoApplication in 4.67 seconds (JVM running for 6.63) 
+2021-07-06 11:39:28.436 [INFO] [main] [c.e.d.SpringDemoApplication:14] starting spring app 
+2021-07-06 11:43:29.938 [INFO] [RMI TCP Connection(12)-127.0.0.1] [o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] Application shutdown requested. 
+2021-07-06 11:43:35,315 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M] | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 10832 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 11:43:35,322 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M] | No active profile set, falling back to default profiles: default 
+2021-07-06 11:43:38,503 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M] | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 11:43:38,528 |  INFO | [main] | org.apache.catalina.core.StandardService:%PARSER_ERROR[M] | Starting service [Tomcat] 
+2021-07-06 11:43:38,530 |  INFO | [main] | org.apache.catalina.core.StandardEngine:%PARSER_ERROR[M] | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 11:43:38,723 |  INFO | [main] | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:%PARSER_ERROR[M] | Initializing Spring embedded WebApplicationContext 
+2021-07-06 11:43:38,723 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:%PARSER_ERROR[M] | Root WebApplicationContext: initialization completed in 3133 ms 
+2021-07-06 11:43:39,557 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M] | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 11:43:39,587 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M] | Started SpringDemoApplication in 5.088 seconds (JVM running for 8.411) 
+2021-07-06 11:43:39,595 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M] | starting spring app 
+2021-07-06 11:44:19,511 |  INFO | [http-nio-8080-exec-1] | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:%PARSER_ERROR[M] | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 11:44:19,518 |  INFO | [http-nio-8080-exec-1] | org.springframework.web.servlet.DispatcherServlet:%PARSER_ERROR[M] | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 11:44:19,523 |  INFO | [http-nio-8080-exec-1] | org.springframework.web.servlet.DispatcherServlet:%PARSER_ERROR[M] | Completed initialization in 4 ms 
+2021-07-06 11:44:19,679 |  WARN | [http-nio-8080-exec-1] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M] | testing   
+2021-07-06 11:45:25,506 |  INFO | [RMI TCP Connection(9)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:%PARSER_ERROR[M] | Application shutdown requested. 
+2021-07-06 11:45:29,124 |  INFO | [main] | com.example.demo.SpringDemoApplication | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 11013 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 11:45:29,127 |  INFO | [main] | com.example.demo.SpringDemoApplication | No active profile set, falling back to default profiles: default 
+2021-07-06 11:45:30,370 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 11:45:30,383 |  INFO | [main] | org.apache.catalina.core.StandardService | Starting service [Tomcat] 
+2021-07-06 11:45:30,385 |  INFO | [main] | org.apache.catalina.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 11:45:30,485 |  INFO | [main] | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext 
+2021-07-06 11:45:30,486 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext | Root WebApplicationContext: initialization completed in 1308 ms 
+2021-07-06 11:45:31,047 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 11:45:31,058 |  INFO | [main] | com.example.demo.SpringDemoApplication | Started SpringDemoApplication in 2.902 seconds (JVM running for 4.052) 
+2021-07-06 11:45:31,061 |  INFO | [main] | com.example.demo.SpringDemoApplication | starting spring app 
+2021-07-06 11:46:01,095 |  INFO | [http-nio-8080-exec-2] | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 11:46:01,095 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.DispatcherServlet | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 11:46:01,097 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.DispatcherServlet | Completed initialization in 1 ms 
+2021-07-06 11:46:01,160 |  WARN | [http-nio-8080-exec-2] | com.example.demo.SpringDemoApplication | testing   
+2021-07-06 12:03:51,706 |  INFO | [RMI TCP Connection(29)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin | Application shutdown requested. 
+2021-07-06 12:03:55,338 |  INFO | [main] | org.springframework.boot.StartupInfoLogger	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 11885 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 12:03:55,352 |  INFO | [main] | org.springframework.boot.SpringApplication	 | No active profile set, falling back to default profiles: default 
+2021-07-06 12:03:57,371 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 12:03:57,386 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog	 | Starting service [Tomcat] 
+2021-07-06 12:03:57,387 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 12:03:57,482 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 12:03:57,483 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext	 | Root WebApplicationContext: initialization completed in 1926 ms 
+2021-07-06 12:03:58,190 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 12:03:58,206 |  INFO | [main] | org.springframework.boot.StartupInfoLogger	 | Started SpringDemoApplication in 3.785 seconds (JVM running for 5.401) 
+2021-07-06 12:03:58,211 |  INFO | [main] | com.example.demo.SpringDemoApplication	 | starting spring app 
+2021-07-06 12:04:05,629 |  INFO | [http-nio-8080-exec-2] | org.apache.juli.logging.DirectJDKLog	 | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 12:04:05,630 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet	 | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 12:04:05,634 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet	 | Completed initialization in 2 ms 
+2021-07-06 12:04:05,826 |  WARN | [http-nio-8080-exec-2] | com.example.demo.controller.StudentController	 | testing   
+2021-07-06 12:05:35,009 |  INFO | [RMI TCP Connection(10)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin	 | Application shutdown requested. 
+2021-07-06 12:05:40,136 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:logStarting	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 12065 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 12:05:40,141 |  INFO | [main] | org.springframework.boot.SpringApplication:logStartupProfileInfo	 | No active profile set, falling back to default profiles: default 
+2021-07-06 12:05:44,139 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:initialize	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 12:05:44,167 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log	 | Starting service [Tomcat] 
+2021-07-06 12:05:44,168 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 12:05:44,418 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 12:05:44,419 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:prepareWebApplicationContext	 | Root WebApplicationContext: initialization completed in 4141 ms 
+2021-07-06 12:05:46,020 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:start	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 12:05:46,042 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:logStarted	 | Started SpringDemoApplication in 7.144 seconds (JVM running for 9.479) 
+2021-07-06 12:05:46,051 |  INFO | [main] | com.example.demo.SpringDemoApplication:main	 | starting spring app 
+2021-07-06 12:06:06,359 |  INFO | [http-nio-8080-exec-2] | org.apache.juli.logging.DirectJDKLog:log	 | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 12:06:06,374 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet:initServletBean	 | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 12:06:06,377 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet:initServletBean	 | Completed initialization in 2 ms 
+2021-07-06 12:06:06,714 |  WARN | [http-nio-8080-exec-2] | com.example.demo.controller.StudentController:testLogger	 | testing   
+2021-07-06 12:06:59,898 |  INFO | [RMI TCP Connection(10)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:shutdown	 | Application shutdown requested. 
+2021-07-06 12:07:03,208 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:%PARSER_ERROR[M]	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 12212 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 12:07:03,217 |  INFO | [main] | org.springframework.boot.SpringApplication:%PARSER_ERROR[M]	 | No active profile set, falling back to default profiles: default 
+2021-07-06 12:07:05,522 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M]	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 12:07:05,538 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Starting service [Tomcat] 
+2021-07-06 12:07:05,539 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 12:07:05,662 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 12:07:05,662 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:%PARSER_ERROR[M]	 | Root WebApplicationContext: initialization completed in 2269 ms 
+2021-07-06 12:07:06,240 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M]	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 12:07:06,262 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:%PARSER_ERROR[M]	 | Started SpringDemoApplication in 3.69 seconds (JVM running for 5.168) 
+2021-07-06 12:07:06,266 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M]	 | starting spring app 
+2021-07-06 12:07:25,202 |  INFO | [http-nio-8080-exec-3] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 12:07:25,209 |  INFO | [http-nio-8080-exec-3] | org.springframework.web.servlet.FrameworkServlet:%PARSER_ERROR[M]	 | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 12:07:25,219 |  INFO | [http-nio-8080-exec-3] | org.springframework.web.servlet.FrameworkServlet:%PARSER_ERROR[M]	 | Completed initialization in 3 ms 
+2021-07-06 12:07:25,370 |  WARN | [http-nio-8080-exec-3] | com.example.demo.controller.StudentController:%PARSER_ERROR[M]	 | testing   
+2021-07-06 12:09:22,167 |  INFO | [RMI TCP Connection(11)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:%PARSER_ERROR[M]	 | Application shutdown requested. 
+2021-07-06 12:09:25,275 |  INFO | [main] | %PARSER_ERROR[l]	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 12381 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 12:09:25,279 |  INFO | [main] | %PARSER_ERROR[l]	 | No active profile set, falling back to default profiles: default 
+2021-07-06 12:09:26,626 |  INFO | [main] | %PARSER_ERROR[l]	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 12:09:26,641 |  INFO | [main] | %PARSER_ERROR[l]	 | Starting service [Tomcat] 
+2021-07-06 12:09:26,642 |  INFO | [main] | %PARSER_ERROR[l]	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 12:09:26,747 |  INFO | [main] | %PARSER_ERROR[l]	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 12:09:26,747 |  INFO | [main] | %PARSER_ERROR[l]	 | Root WebApplicationContext: initialization completed in 1417 ms 
+2021-07-06 12:09:27,459 |  INFO | [main] | %PARSER_ERROR[l]	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 12:09:27,474 |  INFO | [main] | %PARSER_ERROR[l]	 | Started SpringDemoApplication in 2.72 seconds (JVM running for 3.989) 
+2021-07-06 12:09:27,479 |  INFO | [main] | %PARSER_ERROR[l]	 | starting spring app 
+2021-07-06 12:09:49,316 |  INFO | [http-nio-8080-exec-2] | %PARSER_ERROR[l]	 | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 12:09:49,318 |  INFO | [http-nio-8080-exec-2] | %PARSER_ERROR[l]	 | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 12:09:49,320 |  INFO | [http-nio-8080-exec-2] | %PARSER_ERROR[l]	 | Completed initialization in 2 ms 
+2021-07-06 12:09:49,381 |  WARN | [http-nio-8080-exec-2] | %PARSER_ERROR[l]	 | testing   
+2021-07-06 13:10:04,631 |  INFO | [RMI TCP Connection(70)-127.0.0.1] | %PARSER_ERROR[l]	 | Application shutdown requested. 
+2021-07-06 13:10:04,778 |  INFO | [RMI TCP Connection(71)-127.0.0.1] | %PARSER_ERROR[l]	 | Application shutdown requested. 
+2021-07-06 13:15:33,521 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:%PARSER_ERROR[M]	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 16554 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 13:15:33,559 |  INFO | [main] | org.springframework.boot.SpringApplication:%PARSER_ERROR[M]	 | No active profile set, falling back to default profiles: default 
+2021-07-06 13:15:36,218 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M]	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 13:15:36,256 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Starting service [Tomcat] 
+2021-07-06 13:15:36,256 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 13:15:36,364 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:%PARSER_ERROR[M]	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 13:15:36,365 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:%PARSER_ERROR[M]	 | Root WebApplicationContext: initialization completed in 2456 ms 
+2021-07-06 13:15:37,118 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:%PARSER_ERROR[M]	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 13:15:37,133 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:%PARSER_ERROR[M]	 | Started SpringDemoApplication in 5.27 seconds (JVM running for 8.929) 
+2021-07-06 13:15:37,140 |  INFO | [main] | com.example.demo.SpringDemoApplication:%PARSER_ERROR[M]	 | starting spring app 
+2021-07-06 13:16:07,823 |  INFO | [RMI TCP Connection(9)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:%PARSER_ERROR[M]	 | Application shutdown requested. 
+2021-07-06 13:16:10,208 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:logStarting.55	 | Starting SpringDemoApplication using Java 16.0.1 on brent with PID 16644 (/home/snehjeetc/SpringDev/SpringDemo/target/classes started by snehjeetc in /home/snehjeetc/SpringDev/SpringDemo) 
+2021-07-06 13:16:10,212 |  INFO | [main] | org.springframework.boot.SpringApplication:logStartupProfileInfo.659	 | No active profile set, falling back to default profiles: default 
+2021-07-06 13:16:11,522 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:initialize.108	 | Tomcat initialized with port(s): 8080 (http) 
+2021-07-06 13:16:11,535 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log.173	 | Starting service [Tomcat] 
+2021-07-06 13:16:11,535 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log.173	 | Starting Servlet engine: [Apache Tomcat/9.0.48] 
+2021-07-06 13:16:11,628 |  INFO | [main] | org.apache.juli.logging.DirectJDKLog:log.173	 | Initializing Spring embedded WebApplicationContext 
+2021-07-06 13:16:11,629 |  INFO | [main] | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:prepareWebApplicationContext.290	 | Root WebApplicationContext: initialization completed in 1355 ms 
+2021-07-06 13:16:12,185 |  INFO | [main] | org.springframework.boot.web.embedded.tomcat.TomcatWebServer:start.220	 | Tomcat started on port(s): 8080 (http) with context path '' 
+2021-07-06 13:16:12,199 |  INFO | [main] | org.springframework.boot.StartupInfoLogger:logStarted.61	 | Started SpringDemoApplication in 2.469 seconds (JVM running for 3.786) 
+2021-07-06 13:16:12,202 |  INFO | [main] | com.example.demo.SpringDemoApplication:main.14	 | starting spring app 
+2021-07-06 13:16:58,816 |  INFO | [http-nio-8080-exec-2] | org.apache.juli.logging.DirectJDKLog:log.173	 | Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2021-07-06 13:16:58,817 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet:initServletBean.525	 | Initializing Servlet 'dispatcherServlet' 
+2021-07-06 13:16:58,820 |  INFO | [http-nio-8080-exec-2] | org.springframework.web.servlet.FrameworkServlet:initServletBean.547	 | Completed initialization in 2 ms 
+2021-07-06 13:16:58,875 |  WARN | [http-nio-8080-exec-2] | com.example.demo.controller.StudentController:testLogger.68	 | testing   
+2021-07-06 14:54:42,682 |  INFO | [RMI TCP Connection(108)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:shutdown.159	 | Application shutdown requested. 
+2021-07-06 14:54:42,769 |  INFO | [RMI TCP Connection(109)-127.0.0.1] | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:shutdown.159	 | Application shutdown requested. 
